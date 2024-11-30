@@ -8,9 +8,24 @@ body{
 	background-image: url(https://t4.ftcdn.net/jpg/09/00/11/11/360_F_900111170_TnSfjX5SGggHD2jOxlOSjcspYVplWAcm.jpg);
 	background-size: auto;
 	font-family: cursive;
+}	
+
+.cat{
+	float: left;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 1000;
+	}
+
+a{
+	color: white;
 }
 
+hr{
+	border: 2px lightcyan dotted;
 
+}
 .container{
 	margin-top: 20px;
 	background: rgba(0,0,0,0.61);
