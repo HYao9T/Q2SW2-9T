@@ -1,0 +1,43 @@
+
+*{
+	paddding: 0;
+	margin: 0;
+}
+
+body{
+	background-image: url(https://t4.ftcdn.net/jpg/09/00/11/11/360_F_900111170_TnSfjX5SGggHD2jOxlOSjcspYVplWAcm.jpg);
+	background-size: auto;
+	font-family: cursive;
+}
+
+
+.container{
+	margin-top: 20px;
+	background: rgba(0,0,0,0.61);
+	border: 10px #cccccc outset;
+	color: white;
+	padding: 20px 5%;
+	width: 1000px;
+ 	margin-bottom: 15%;
+}
+
+.button{
+	width: 100%;
+}
+
+h2{
+	text-align: center;
+}
+
+img{
+	width: 30px;
+}
+
+.footer{
+	position: fixed;
+	background: linear-gradient(97deg,#1d3159 0%, #2693bc 40%, #1d3159 80%);
+	text-align: center;
+	width: 100%;
+	color: white;
+	bottom: 0;
+}
